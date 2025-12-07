@@ -1,0 +1,10 @@
+---
+title: "Home"
+execute:
+  echo: false
+format: html
+---
+
+<meta http-equiv="refresh" content="0;URL='reports/qmd_example.html'" />
+
+[Click here if you are not redirected automatically](reports/qmd_example.html)

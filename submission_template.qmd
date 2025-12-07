@@ -1,0 +1,12 @@
+---
+title: "DSCI 522 Individual Assignment 3 Submission"
+format: pdf
+---
+
+# Submission Links
+
+**1. GitHub Repository:**
+https://github.com/PAT0216/dsci522-individual-assignment-quarto-python.git
+
+**2. GitHub Pages Report:** 
+https://PAT0216.github.io/dsci522-individual-assignment-quarto-python/
